@@ -1,2 +1,2 @@
 # data-strcutures
-implementation of hashmap and dynamically-resized array
+implementation of hashmap and dynamically-resized array (ArrayList)
